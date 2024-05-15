@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Archive';
+    src: url('../assets/Archive-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina-Black';
+    src: url('../assets/NeueMachina-Black.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina-Bold';
+    src: url('../assets/NeueMachina-Bold.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina-Light';
+    src: url('../assets/NeueMachina-Light.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina-Medium';
+    src: url('../assets/NeueMachina-Medium.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina';
+    src: url('../assets/NeueMachina-Regular.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina-Ultrabold';
+    src: url('../assets/NeueMachina-Ultrabold.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina-Ultralight';
+    src: url('../assets/NeueMachina-Ultralight.woff2') format('truetype');
+}
